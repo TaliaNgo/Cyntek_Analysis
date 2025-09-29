@@ -11,5 +11,10 @@ The company maintains a database consisting of orders, order statuses, customers
 -	How is the new loyalty program performing? Should the company keep using it?   
 -	What were the refund rates and average order value (AOV)? Specifically, focus on Apple products.   
 
-For these questions, we focus on the 3 main metrics – **order counts**, **sales revenue**, and **AOV**.
+For these questions, we focus on the 3 main metrics – **order counts**, **sales revenue**, and **AOV**.   
+
+## Executive Summary   
+- **Sales Trends**: Sales grew steadily from 2019 through 2021, **peaking in 2020 during the COVID-19 pandemic** before declining to pre-pandemic levels by late 2022. Over the four years (2019-2022), the company generated **$28M in total sales** across **108K orders** from **87.6K customers**, with an **average order value of $253**. Peak performance occurred in 2020 with the highest revenue (**10M**) and AOV (**$300**), while 2021 recorded the highest unit sold (**36K**).   
+- **Growth Rates**: 2020 experienced exponential growth with **units sold doubling** and **revenue tripling** YoY (**up 163% from 2019**). However, 2022 saw a sharp reversal with sales declining **40-45% from 2021 levels**. The steepest monthly decline occurred in October 2022 (**48 to 55%** dip in unit sold and sales), while March 2020 saw the strongest MoM surge of **50%** as pandemic-driven demand accelerated.
+- **Loyalty Program**: Loyalty program's performance shows positive trends.
 
