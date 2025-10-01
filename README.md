@@ -20,7 +20,9 @@ For these questions, we focus on the 3 main metrics – **order counts**, **sale
 - **Refund Rates**: Refund rates **averaged 4% annually by units and 7% by revenue**, peaking in **2020 at 13% of revenue and 3.61% of units**, before declining to **0% in 2022** (likely due to incomplete data). **Laptops showed the highest refund rates** by category, with **Apple products accounting for 50% of all refunds**.
 
 ## Detailed Analysis   
-### Sales Trends   
+### Product Performance   
+<img width="700" height="208" alt="image" src="https://github.com/user-attachments/assets/969b2245-3eed-4522-bb28-0add2cdb8bd1" />   
+
 ### Loyalty Program   
 ### Refund Rates   
 
