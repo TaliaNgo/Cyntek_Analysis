@@ -23,7 +23,8 @@ For these questions, we focus on the 3 main metrics – **order counts**, **sale
 ### Product Performance   
 <p align="center">
   <img width="700" height="208" alt="product performance" src="https://github.com/user-attachments/assets/969b2245-3eed-4522-bb28-0add2cdb8bd1" />   
-</p>
+</p>   
+
 - **Most popular product**: Apple Airpods Headphones is the most popular product across the entire period and in each individual year, accounting for **45%** of total orders sold and generating **$7.7M** in revenue.
 - **High-performing products**: The top 4 products - **4K Gaming Monitor, Apple Airpods Headphones, Macbook Air and Thinkpad Laptop** - generate **96%** of total revenue, totalling **$27M** in sales. Three of these (all except Airpods) are also the highest-value products with AOV significantly above the $260 portfolio average.   
 - **Underperforming product**: Since launching in early 2020, Bose Soundsport Headphones has consistently underperformed, generating only **27 orders (0.02% of total)** and **$3K (0.01% of revenue) in total sales** — an **average of 1-3 orders** per month.
@@ -35,10 +36,7 @@ For these questions, we focus on the 3 main metrics – **order counts**, **sale
 ### Seasonality   
 <p align="center">
   <img width="381" height="254" alt="seasonality" src="https://github.com/user-attachments/assets/a9f443d6-d63a-4356-b246-7c453f48f2eb" />
-  <img width="447" height="244" alt="growth rate & seasonality" src="https://github.com/user-attachments/assets/f64b3cad-60c2-4b14-8b86-d1a43b162e28" />
 </p>   
-
-
 
 ### Loyalty Program   
 ### Refund Rates   
