@@ -38,7 +38,7 @@ For these questions, we focus on the 3 main metrics – **order counts**, **sale
   <img width="401" height="274" alt="seasonality" src="https://github.com/user-attachments/assets/a9f443d6-d63a-4356-b246-7c453f48f2eb" />
 </p>   
 
-- There is a clear **consistent seasonal patterns across 2019-2022**, with sales following a predictable annual cycle. Sales start strong in January (holiday carryover), then drop sharply in February. March to June show stable sales with little fluctuation, then rise steadily until September, which is likely driven by the back-to-school season. Sales drop again in October, then reach their highest levels in November and December during the holiday period.   
+- There is a clear **consistent seasonal patterns across 2019-2022**, with sales following a predictable annual cycle. Sales start strong in January (holiday carryover), then drop sharply in February. March to June show stable sales with little fluctuation, then rise steadily until September, which is likely driven by the back-to-school season. Sales drop again in October, then reach their highest levels in November and December during the holiday period. The company can leverage these consistent patterns to manage inventory strategically, and optimise marketing and pricing strategies.   
 - The highest sales months are **January, September, November, and December**, accounting for on average **37% of orders and sales** each year. **February and October** have the lowest orders and sales every year, approximately **50% lower** than the highest months, with **October 2022** being the lowest performing month in the 4-year period (**825 orders, $178K sales, and AOV of $216**).
 
 ### Geographical Trends   
