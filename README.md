@@ -1,11 +1,11 @@
 # TechHub Electronics E-Commerce Analysis   
 ## About TechHub   
-TechHub is a global e-commerce platform specialising in electronics and consumer technology products. Since their founding in 2018, the company has grown from a startup to an international retailer, distributing the latest consumer technology from leading brands like Apple, Samsung, and ThinkPad. Operating through their web platform and mobile application, TechHub utilises a variety of marketing channels, including email, SEO, and affiliate marketing, to drive customer engagement and deliver high-quality products to its customers worldwide.   
+TechHub is a global e-commerce platform specialising in electronics and consumer technology products. Since their founding in 2018, the company has grown from a startup to an international retailer, distributing the latest consumer technology from leading brands like Apple, Samsung, and ThinkPad. Operating through their web platform and mobile application, TechHub utilises a variety of marketing channels to deliver high-quality products and service to its customers worldwide.   
 
 ## Project Goals   
-The company maintains a database consisting of orders, order statuses, customers, products, and geographic information. Despite containing valuable business intelligence, this data remains largely unstructured and underanalysed. This project focuses on extracting meaningful insights from TechHub's data to support strategic decision-making across Finance, Sales, Product, and Marketing teams, enhancing customer experience delivery and driving business growth.   
+This project focuses on extracting meaningful insights from TechHub's operational database (see data model) to support strategic decision-making across Finance, Sales, Product, and Marketing teams, enhancing customer experience delivery and driving business growth.   
 
-## Stakeholder Questions for Analysis    
+**Stakeholder Questions for Analysis**    
 - What were the sales trends from 2019 to 2022?   
 -	What were the monthly and yearly growth rates during this time?   
 -	How is the new loyalty program performing? Should the company keep using it?   
@@ -49,7 +49,6 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
 - **Note on Data Quality**: A notable portion of records show values as "unknown" - **3.96% (4K orders) for account creation method and 1.36% (1K orders) for marketing channel**. The company should review and enhance its data collection process to improve data accuracy, strengthen customer insights, and optimise marketing strategies.   
 - **Account Creation Method**: Desktop and mobile phones account for approximately **95% of all customer registrations**. **Desktop** method show the **strongest performance** across all metrics, with a **20% retention rate**.   
 - **Marketing Channel**: Direct and email marketing drive **95% of total sales and orders**, making them the most effective channels. The affiliation channel, while much smaller in volume, has the **highest AOV of $302 and retention rate of 25%**, suggesting potential for further investigation (pending cost analysis).   
-- An interesting observation is the direct correlation between some marketing channels and account creation methods: direct marketing - desktop, email - mobile, and social media - tablet. This pattern may indicate a data collection issue or genuine customer behaviour that requires further investigations before drawing conclusions.   
 - **Purchase Platform**: Sales occur across 2 purchase platforms - **website and mobile app**. The website dominates with **87% of orders (89K), 96% of sales ($27M), and a much higher AOV ($304 vs $44)** than the mobile app. This gap is due to product mix differences: low-value items like *Samsung Charging Cable Pack* and *Samsung Webcam* are the top 2 best-sellers on the mobile app, while *Apple Airpods Headphones* and *27in 4K Gaming Monitor* leads website sales.   
 
 ### Loyalty Program   
