@@ -17,7 +17,7 @@ For these questions, we focus on the 3 main metrics – **order counts**, **sale
 - **Sales Trends**: Sales grew steadily from 2019 through 2021, **peaking in 2020 during the COVID-19 pandemic** before declining to pre-pandemic levels by late 2022. Over the four years (2019-2022), the company generated **$28M in total sales** across **108K orders** from **87.6K customers**, with an **average order value of $253**. Peak performance occurred in 2020 with the highest revenue (**$10M**) and AOV (**$300**), while 2021 recorded the highest unit sold (**36K**).   
 - **Growth Rates**: 2020 experienced exponential growth with **units sold doubling** and **revenue tripling** YoY (**up 163% from 2019**). However, 2022 saw a sharp reversal with sales declining **40-45% from 2021 levels**. The steepest monthly decline occurred in October 2022, while March 2020 saw the strongest MoM surge of **50%** as pandemic-driven demand accelerated.
 - **Loyalty Program**: The loyalty program has had very stable performance, with a steady increase across all metrics from 2019 to 2021, peaking at **$4.9M sales, 19.5K units sold, and $249 AOV in 2021**.   
-- **Refund Rates**: Refund rates **averaged 4% annually by units and 7% by revenue**, peaking in **2020 at 13% of revenue and 3.61% of units**, before declining to **0% in 2022** (likely due to incomplete data). **Laptops showed the highest refund rates** by category, with **Apple products accounting for 50% of all refunds**.
+- **Refund Rates**: Refund rates **averaged 4% annually by units and 7% by revenue**, peaking in **2020 at 3.61% of units and 13% of revenue**, before declining to **0% in 2022** (likely due to incomplete data). **Laptops showed the highest refund rates** by category, with **Apple products accounting for 50% of all refunds**.
 
 ## Detailed Analysis   
 ### Product Performance   
@@ -68,9 +68,19 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
 - **Apple products**: Non-loyalty members dominate Apple's product purchases. While *Airpods* performs equally across both segments (best-selling product), *Macbook Air* severely underperforms, with **first purchase from loyalty members in 2021** at **5x below non-loyalty** (gap narrowed to **1x in 2022** as non-loyalty purchases declined). Apple Iphone shows **no loyalty purchases**, suggesting limited program appeal for high-end Apple buyers.   
 
 **Marketing & Customer Behaviour**   
+- **Marketing Channel**s: A large share of loyalty purchases have “unknown” channels, limiting visibility into which campaigns effectively attract or convert members. Where data is available, **email marketing consistently drives stronger loyalty performance**, with sales and orders surpassing non-loyalty customers since March 2020, while **affiliate marketing underperforms across all metrics**. This indicates that loyalty members are more responsive to direct and personalised communication.   
+- **Account Creation Method**: Loyalty engagement is **strongest among customers who sign up via mobile or TV platforms**. Sales and orders from mobile sign-ups have exceeded non-loyalty since early 2020, and 79% of TV sign-ups belong to the loyalty program.   
+- **Purchase Platform**: Loyalty program records **higher sales than non-loyalty customers on the mobile app** and perform better there than on the website. Loyalty sales on the mobile app have exceeded non-loyalty purchases across all four years, with AOV consistently higher since 2020 despite declining order volumes from 2021.   
 
 **Other Findings**   
+- **Repeat Customers**: Non-loyalty customers have a **higher repeat purchase rate (17.3%) than loyalty members (13.1%)**, indicating retention challenges within the program.
+- **Refunds**: Loyalty members show **higher refund rates (6.23%) and counts (2.8K)** than non-loyalty customers, possibly reflecting easier return policies.
 
 ### Refund Rates   
+**Overall Trends**: On average, refund rate is **4.64% (1.7K orders)** per year, totalling **$2.2M in refunded sales** over four years. Refund rates have **declined since 2020**, with **no refunds recorded in 2022**, which is likely due to incomplete data.   
+
+**Product**   
+
+**Marketing & Customer Behaviour**   
 
 ## Recommendations   
