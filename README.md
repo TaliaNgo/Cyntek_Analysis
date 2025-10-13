@@ -43,17 +43,17 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
 ### Geographical Trends   
 - TechHub serves customers across **193 countries**, with the **USA dominating at 47% of total revenue and orders**. Revenue concentration is significant: the **top 12** countries account for **80% of sales and orders**, with **5 of these countries located in EMEA (primarily Europe)**.
 - **Notable Country Insights**:   
-  **Japan** presents a premium market opportunity with the **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite ranking 4th in revenue, Japan places only 7th in order volume, indicating high-value purchases. **Mexico** ranks in the top 12 by order volume, while **India** replaces it in the top 12 by revenue.
+  **Japan** presents a premium market opportunity with the **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite ranking 4th in revenue, Japan places only 7th in order volume, indicating high-value purchases.   
 - **Regional Performance**:   
   **North America (NA)** leads with **$14.5M revenue and 55K orders**, followed by **EMEA, APAC, and LATAM**. **NA** sales are highly concentrated with **USA (91%) and Canada (8%)**. **APAC has the highest AOV of $278**, presenting an opportunity to focus on high-value products for this customer segment. Within APAC, Australia generates **2x Japan's order volume** but only **~2% more revenue**, reinforcing Japan's position as a high-value market.
 
 ### Marketing & Customer Behaviour Analysis   
 - **Note on Data Quality**:   
   A notable portion of records show values as "unknown" - **3.96% (4K orders) for account creation method and 1.36% (1K orders) for marketing channel**. The company should review and enhance its data collection process to improve data accuracy, strengthen customer insights, and optimise marketing strategies.   
-- **Account Creation Method**:   
-  Desktop and mobile phones account for approximately **95% of all customer registrations**. **Desktop** method show the **strongest performance** across all metrics, with a **20% retention rate**.   
 - **Marketing Channel**:   
   Direct and email marketing drive **95% of total sales and orders**, making them the most effective channels. The affiliation channel, while much smaller in volume, has the **highest AOV of $302 and retention rate of 25%**, suggesting potential for further investigation (pending cost analysis).   
+- **Account Creation Method**:   
+  Desktop and mobile phones account for approximately **95% of all customer registrations**. **Desktop** method show the **strongest performance** across all metrics, with a **20% retention rate**.   
 - **Purchase Platform**:   
   Sales occur across 2 purchase platforms - **website and mobile app**. The website dominates with **87% of orders (89K), 96% of sales ($27M), and a much higher AOV ($304 vs $44)** than the mobile app. This gap is due to product mix differences: low-value items like *Samsung Charging Cable Pack* and *Samsung Webcam* are the top 2 best-sellers on the mobile app, while *Apple Airpods Headphones* and *27in 4K Gaming Monitor* leads website sales.   
 
