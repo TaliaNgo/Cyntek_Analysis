@@ -9,7 +9,7 @@ This project focuses on extracting meaningful insights from TechHub's operationa
 - What were the sales trends from 2019 to 2022?   
 -	What were the monthly and yearly growth rates during this time?   
 -	How is the new loyalty program performing? Should the company keep using it?   
--	What were the refund rates and average order value (AOV)? Specifically, focus on Apple products.   
+-	What were the refund rates? Specifically, focus on Apple products.   
 
 For these questions, we focus on the 3 main metrics – **order counts**, **sales revenue**, and **AOV**.   
 
@@ -60,7 +60,8 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
 ### Loyalty Program   
 **Overall Performance**   
 - Loyalty program initially **underperformed during 2019-2020** but achieved **breakthrough in 2021**, surpassing non-loyalty sales for the first time (**19K orders, $4.8M sales, $249 AOV**) and maintaining this lead until 2022.   
--	Loyalty AOV has **grown steadily** during the four-year period (**~5% YoY**), while non-loyalty AOV has **declined ~21% YoY since 2020**, indicating program maturation and a higher-value customer segment among loyalty members.   
+-	Loyalty AOV has **grown steadily** during the four-year period (**~5% YoY**), while non-loyalty AOV has **declined ~21% YoY since 2020**, indicating program maturation and a higher-value customer segment among loyalty members.
+-	APAC has the highest loyalty program participation rate at 72%, compared to an average of 40% across other regions.   
 
 **Product Performance**   
 - Loyalty members spend more across all products, with an **average AOV of $260 vs. $240** for non-loyalty customers.   
@@ -77,9 +78,11 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
 - **Refunds**: Loyalty members show **higher refund rates (6.23%) and counts (2.8K)** than non-loyalty customers, possibly reflecting easier return policies.
 
 ### Refund Rates   
-**Overall Trends**: On average, refund rate is **4.64% (1.7K orders)** per year, totalling **$2.2M in refunded sales** over four years. Refund rates have **declined since 2020**, with **no refunds recorded in 2022**, which is likely due to incomplete data.   
+**Overall Trends**: On average, refund rate is **4.64% (1.7K orders)** per year, totalling **$2.2M in refunded sales** over four years. Refund rates have **declined since 2020**, with **no refunds recorded in 2022**, which is likely due to incomplete data. NA has the highest refund rate at 5.37%, while average per region is 4.7%.   
 
 **Product**   
+- The two laptop products - ThinkPad Laptop and Macbook Air Laptop - have the highest refund rates of 11.76% and 11.43% respectively. Higher value products have higher refund rates.
+- Apple Products: Account for 57.8% of refunds across all products, totalling ~$1.2M in refunded sales.
 
 **Marketing & Customer Behaviour**   
 
