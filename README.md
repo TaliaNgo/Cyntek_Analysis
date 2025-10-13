@@ -27,7 +27,7 @@ For these questions, we focus on the 3 main metrics – **order counts**, **sale
 
 - **Most popular product**: *Apple Airpods Headphones* is the most popular product across the entire period and in every year, accounting for **45%** of total orders sold and generating **$7.7M** in revenue.
 - **High-performing products**: The top 4 products - **4K Gaming Monitor, Apple Airpods Headphones, Macbook Air and Thinkpad Laptop** - generate **96%** of total revenue, totalling **$27M** in sales. Three of these (all except Airpods) are also the highest-value products with AOV significantly above the $260 portfolio average.   
-- **Underperforming product**: Since launching in early 2020, *Bose Soundsport Headphones* has consistently underperformed, generating only **27 orders (0.02% of total)** and **$3K (0.01% of revenue) in total sales** - an **average of 1-3 orders** per month.
+- **Underperforming product**: Since launching in early 2020, *Bose Soundsport Headphones* has consistently underperformed, generating only **27 orders (0.02% of total orders)** and **$3K (0.01% of revenue)** - an **average of 1-3 orders** per month.
 - **Apple products**: Apple is a key brand, contributing **48% of total orders and 50% of sales**. Two of its products rank among the top four by value:
   - *IPhone*: High AOV ($741) but less than 1% of total product sales. Sales are volatile, with sharp fluctuations.
   - *MacBook Air*: Showed the strongest and most consistent growth from Q4 2019 to Q1 2020, with orders and sales increasing **5–6x from October 2019 to April 2020**, likely driven by remote work and study demand.   
