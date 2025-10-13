@@ -61,7 +61,7 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
 **Overall Performance**   
 - Loyalty program initially **underperformed during 2019-2020** but achieved **breakthrough in 2021**, surpassing non-loyalty sales for the first time (**19K orders, $4.8M sales, $249 AOV**) and maintaining this lead until 2022.   
 -	Loyalty AOV has **grown steadily** during the four-year period (**~5% YoY**), while non-loyalty AOV has **declined ~21% YoY since 2020**, indicating program maturation and a higher-value customer segment among loyalty members.
--	APAC has the highest loyalty program participation rate at 72%, compared to an average of 40% across other regions.   
+-	**APAC** has the **highest loyalty program participation rate at 72%**, compared to an average of **40% across other regions**.   
 
 **Product Performance**   
 - Loyalty members spend more across all products, with an **average AOV of $260 vs. $240** for non-loyalty customers.   
@@ -78,12 +78,13 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
 - **Refunds**: Loyalty members show **higher refund rates (6.23%) and counts (2.8K)** than non-loyalty customers, possibly reflecting easier return policies.
 
 ### Refund Rates   
-**Overall Trends**: On average, refund rate is **4.64% (1.7K orders)** per year, totalling **$2.2M in refunded sales** over four years. Refund rates have **declined since 2020**, with **no refunds recorded in 2022**, which is likely due to incomplete data. NA has the highest refund rate at 5.37%, while average per region is 4.7%.   
-
-**Product**   
-- The two laptop products - ThinkPad Laptop and Macbook Air Laptop - have the highest refund rates of 11.76% and 11.43% respectively. Higher value products have higher refund rates.
-- Apple Products: Account for 57.8% of refunds across all products, totalling ~$1.2M in refunded sales.
-
-**Marketing & Customer Behaviour**   
+- **Overall Trends**: On average, refund rate is **4.64% (1.7K orders)** per year, totalling **$2.2M in refunded sales** over four years. Refund rates have **declined since 2020**, with **no refunds recorded in 2022**, which is likely due to incomplete data. **NA** has the **highest refund rate** at **5.37%**, while **average per region** is **4.7%**.   
+- **Product Performance**:   
+  - The **two laptop products** - *ThinkPad Laptop* and *Macbook Air Laptop* - record the highest refund rates at **11.76%** and **11.43%** respectively. Higher value products (with high AOV) are more likely to be returned.   
+  - **Apple Products**: Account for **57.8%** of refunds across all products, totalling approximately **$1.2M** in refunded sales. *Apple Iphone* is the **third most refunded product (7.64% refund rate)**, while *Apple Airpod* has the **highest refund count with 2.6K refunded orders**.   
+- **Marketing & Customer Behaviour**:
+  - **Social media marketing** drives the highest refund rate at **7.58% (98 orders)**, followed by **direct marketing** at **5.03% (4K orders)**.
+  - By **account creation method**, customers who created accounts via **TV** show the highest refund rate (**9.76%, 8 out of 82 orders**), followed by **tablet** users at **7.58%**.
+  - **Desktop users** and **direct marketing channels** record the **highest refund volumes**, with **4,224 refunded orders each**.    
 
 ## Recommendations   
