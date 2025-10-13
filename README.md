@@ -45,7 +45,7 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
 - **Notable Country Insights**:   
   **Japan** presents a premium market opportunity with the **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite ranking 4th in revenue, Japan places only 7th in order volume, indicating high-value purchases.   
 - **Regional Performance**:   
-  **North America (NA)** leads with **$14.5M revenue and 55K orders**, followed by **EMEA, APAC, and LATAM**. **NA** sales are highly concentrated with **USA (91%) and Canada (8%)**. **APAC has the highest AOV of $278**, presenting an opportunity to focus on high-value products for this customer segment. Within APAC, Australia generates **2x Japan's order volume** but only **~2% more revenue**, reinforcing Japan's position as a high-value market.
+  **North America (NA)** leads with **$14.5M revenue and 55K orders**, followed by **EMEA, APAC, and LATAM**. **NA** sales are highly concentrated with **USA (91%) and Canada (8%)**. **APAC has the highest AOV of $278**, presenting an opportunity to focus on high-value products for this customer segment. Within APAC, Japan generates **half of Australia's order volume** yet delivers **only ~2% less revenue**, reinforcing Japan's position as a high-value market.
 
 ### Marketing & Customer Behaviour Analysis   
 - **Note on Data Quality**:   
