@@ -1,6 +1,6 @@
 # TechHub Electronics E-Commerce Analysis   
 ## About TechHub   
-TechHub is a global e-commerce platform specialising in electronics and consumer technology products. Since their founding in 2018, the company has grown from a startup to an international retailer, distributing the latest consumer technology from leading brands like Apple, Samsung, and ThinkPad. Operating through their web platform and mobile application, TechHub utilises a variety of marketing channels to deliver high-quality products and service to its customers worldwide.   
+TechHub is a global e-commerce platform specialising in electronics and consumer technology products. Since their founding in 2018, the company has grown from a startup to an international retailer, distributing the latest consumer technology from leading brands like Apple, Samsung, and ThinkPad. Operating through their web platform and mobile application, TechHub delivers high-quality products and service to its customers worldwide.   
 
 ## Project Goals   
 This project focuses on extracting meaningful insights from TechHub's operational database (see data model) to support strategic decision-making across Finance, Sales, Product, and Marketing teams, enhancing customer experience delivery and driving business growth.   
@@ -25,33 +25,31 @@ For these questions, we focus on the 3 main metrics – **order counts**, **sale
   <img width="700" height="208" alt="product performance" src="https://github.com/user-attachments/assets/969b2245-3eed-4522-bb28-0add2cdb8bd1" />   
 </p>   
 
-- **Most popular product**: *Apple Airpods Headphones* is the most popular product across the entire period and in every year, accounting for **45%** of total orders sold and generating **$7.7M** in revenue.
+- **Most popular product**: *Apple Airpods Headphones* is the most popular product, accounting for **45%** of total orders sold and generating **$7.7M** in revenue.
 - **High-performing products**: The top 4 products - **4K Gaming Monitor, Apple Airpods Headphones, Macbook Air and Thinkpad Laptop** - generate **96%** of total revenue, totalling **$27M** in sales. Three of these (all except Airpods) are also the highest-value products with AOV significantly above the $260 portfolio average.   
 - **Underperforming product**: Since launching in early 2020, *Bose Soundsport Headphones* has consistently underperformed, generating only **27 orders (0.02% of total orders)** and **$3K (0.01% of revenue)** - an **average of 1-3 orders** per month.
 - **Apple products**: Apple is a key brand, contributing **48% of total orders and 50% of sales**. Two of its products rank among the top four by value:
   - *IPhone*: High AOV (**$741**) but less than **1%** of total product sales. Sales are volatile, with sharp fluctuations.
-  - *MacBook Air*: Showed the strongest and most consistent growth from Q4 2019 to Q1 2020, with orders and sales increasing **5–6x from October 2019 to April 2020**, likely driven by remote work and study demand.   
-- **Samsung products**: Drive a large share of orders (**27%**) but contribute only **~2.9% of total sales**. Sales also declined in 2022, suggesting the company should review performance and consider alternative sales strategies.
+  - *MacBook Air*: Experienced highest growth rate out of all products, with orders and sales increasing **5–6x from October 2019 to April 2020**, likely driven by remote work and study demand.   
+- **Samsung products**: Drive a large share of orders (**27%**) but contribute only **~2.9% of total sales**, suggesting the company should review performance.
 
 ### Seasonality   
 <p align="center">
   <img width="401" height="274" alt="seasonality" src="https://github.com/user-attachments/assets/a9f443d6-d63a-4356-b246-7c453f48f2eb" />
 </p>   
 
-Sales follow **highly predictable seasonal patterns across 2019-2022**. The highest sales months are **January, September, November, and December**, accounting for **~37% of annual orders and sales**, driven by holiday shopping and back-to-school demand. **February and October** have the lowest orders and sales every year, approximately **50% below peak performance**, with **October 2022** being the lowest performing month in the 4-year period (**825 orders, $178K sales, and AOV of $216**). The company can leverage these consistent patterns to manage inventory strategically and optimise marketing and pricing strategies.   
+Sales follow **highly predictable seasonal patterns across 2019-2022**. The highest sales months are **January, September, November, and December**, accounting for **~37% of annual orders and sales**, driven by holiday shopping and back-to-school demand. **February and October** have the lowest orders and sales every year, approximately **50% below peak performance**, with **October 2022** being the lowest performing month in the 4-year period (**825 orders, $178K sales, and AOV of $216**).   
 
 ### Geographical Trends   
 - TechHub serves customers across **193 countries**, with the **USA dominating at 47% of total revenue and orders**. Revenue concentration is significant: the **top 12** countries account for **80% of sales and orders**, with **5 of these countries located in EMEA (primarily Europe)**.
-- **Notable Country Insights**:   
-  **Japan** presents a premium market opportunity with the **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite ranking 4th in revenue, Japan places only 7th in order volume, indicating high-value purchases.   
-- **Regional Performance**:   
-  **North America (NA)** leads with **$14.5M revenue and 55K orders**, followed by **EMEA, APAC, and LATAM**. **NA** sales are highly concentrated with **USA (91%) and Canada (8%)**. **APAC has the highest AOV of $278**, presenting an opportunity to focus on high-value products for this customer segment. Within APAC, Japan generates **half of Australia's order volume** yet delivers **only ~2% less revenue**, reinforcing Japan's position as a high-value market.
+- **Japan** presents a premium market opportunity with the **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite ranking 4th in revenue, Japan places only 7th in order volume, indicating high-value purchases.   
+- **North America (NA)** leads with **$14.5M revenue and 55K orders**, with its sales highly concentrated with **USA (91%) and Canada (8%)**. **APAC has the highest AOV of $278**, presenting an opportunity to focus on high-value products for this customer segment. Within APAC, Japan generates **half of Australia's order volume** yet delivers **only ~2% less revenue**, reinforcing Japan's position as a high-value market.   
 
 ### Marketing & Customer Behaviour Analysis   
 - **Note on Data Quality**:   
   A notable portion of records show values as "unknown" - **3.96% (4K orders) for account creation method and 1.36% (1K orders) for marketing channel**. The company should review and enhance its data collection process to improve data accuracy, strengthen customer insights, and optimise marketing strategies.   
 - **Marketing Channel**:   
-  **Direct and email** marketing drive **95% of total sales and orders**, making them the most effective channels. The **affiliation** channel, while much smaller in volume, has the **highest AOV of $302 and retention rate of 25%**, suggesting potential for further investigation (pending cost analysis).   
+  **Direct and email** marketing drive **95% of total sales and orders**, making them the most effective channels. The **affiliation** channel, while much smaller in volume, has the **highest AOV of $302 and retention rate of 25%**.   
 - **Account Creation Method**:   
   Desktop and mobile phones account for approximately **95% of all customer registrations**. **Desktop** method show the **strongest performance** across all metrics, with a **20% retention rate**.   
 - **Purchase Platform**:   
