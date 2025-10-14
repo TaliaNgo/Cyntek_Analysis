@@ -29,9 +29,9 @@ For these questions, we focus on the 3 main metrics – **order counts**, **sale
 - **High-performing products**: The top 4 products - **4K Gaming Monitor, Apple Airpods Headphones, Macbook Air and Thinkpad Laptop** - generate **96%** of total revenue, totalling **$27M** in sales. Three of these (all except Airpods) are also the highest-value products with AOV significantly above the $260 portfolio average.   
 - **Underperforming product**: Since launching in early 2020, *Bose Soundsport Headphones* has consistently underperformed, generating only **27 orders (0.02% of total orders)** and **$3K (0.01% of revenue)** - an **average of 1-3 orders** per month.
 - **Apple products**: Apple is a key brand, contributing **48% of total orders and 50% of sales**. Two of its products rank among the top four by value:
-  - *IPhone*: High AOV ($741) but less than 1% of total product sales. Sales are volatile, with sharp fluctuations.
+  - *IPhone*: High AOV (**$741**) but less than **1%** of total product sales. Sales are volatile, with sharp fluctuations.
   - *MacBook Air*: Showed the strongest and most consistent growth from Q4 2019 to Q1 2020, with orders and sales increasing **5–6x from October 2019 to April 2020**, likely driven by remote work and study demand.   
-- **Samsung products**: Drive a large share of orders (27%) but contribute only **~2.9% of total sales**. Sales also declined in 2022, suggesting the company should review performance and consider alternative sales strategies.
+- **Samsung products**: Drive a large share of orders (**27%**) but contribute only **~2.9% of total sales**. Sales also declined in 2022, suggesting the company should review performance and consider alternative sales strategies.
 
 ### Seasonality   
 <p align="center">
@@ -51,7 +51,7 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
 - **Note on Data Quality**:   
   A notable portion of records show values as "unknown" - **3.96% (4K orders) for account creation method and 1.36% (1K orders) for marketing channel**. The company should review and enhance its data collection process to improve data accuracy, strengthen customer insights, and optimise marketing strategies.   
 - **Marketing Channel**:   
-  Direct and email marketing drive **95% of total sales and orders**, making them the most effective channels. The affiliation channel, while much smaller in volume, has the **highest AOV of $302 and retention rate of 25%**, suggesting potential for further investigation (pending cost analysis).   
+  **Direct and email** marketing drive **95% of total sales and orders**, making them the most effective channels. The **affiliation** channel, while much smaller in volume, has the **highest AOV of $302 and retention rate of 25%**, suggesting potential for further investigation (pending cost analysis).   
 - **Account Creation Method**:   
   Desktop and mobile phones account for approximately **95% of all customer registrations**. **Desktop** method show the **strongest performance** across all metrics, with a **20% retention rate**.   
 - **Purchase Platform**:   
@@ -88,3 +88,31 @@ Sales follow **highly predictable seasonal patterns across 2019-2022**. The high
   - **Desktop users** and **direct marketing channels** record the **highest refund volumes**, with **4,224 refunded orders each**.    
 
 ## Recommendations   
+### Product Sales   
+- **Diversify product portfolio**: The top 4 products generate 96% of revenue, creating significant risk if market conditions change or competitors emerge. Expand its product mix by testing and promoting new or products to reduce concentration.   
+- **Discontinue low performer**: With poor performance across all metrics, TechHub should consider discontinue or replace Bose Soundsport Headphones with higher-potential alternatives.   
+- **Optimise Iphone sales strategy**: Despite being a high-value product, Iphone sales are low and volatile. Investigate pricing, marketing, and inventory factors, and consider product bundling (e.g. with AirPods - the best-seller) to leverage the popularity of complementary Apple items.   
+
+### Seasonality   
+- **Leverage predictable seasonal patterns**: Consistent seasonal trends across all years provides a strong basis for data-driven inventory planning - increasing stock levels ahead of peak months and reducing restocks during February and October, the weakest months.   
+- **Stimulate low-season sales**: Introduce clearance campaigns or targeted discounts in February and October, potentially themed around events such as Valentine’s Day.   
+- **Time product launch strategically**: Avoid launches in February and October and schedule releases in late August or early November to capture back-to-school and holiday demand surges.   
+
+### Countries & Regions   
+- **Focus on top 12 markets**: Concentrate expansion and marketing efforts on the top 12 countries (80% of sales) rather than spreading resources across all 193 markets.   
+- **Leverage high-value APAC markets**: Focus particularly on Japan, which delivers nearly the same revenue as Australia with only half the order volume - a strong indicator of premium customer behaviour. Target this market with high-value product bundles and exclusive loyalty offers.   
+
+### Marketing   
+- **Improve data capture**: Implement mandatory field tracking and system validation to improve data quality at point of capture.   
+- **Optimise marketing mix**: Continue investing in direct and email marketing, which drive the strongest performance. Re-evaluate the affiliate channel: while smaller in volume, its high AOV and retention rate suggest potential for new customer acquisition if cost-effective.   
+- **Improve mobile app experience**: Since the website outperforms the mobile app in sales and AOV, conduct UX and performance audits on the app to identify friction points and apply best practices from the website.   
+
+### Loyalty Program   
+- The loyalty program has shown steady improvement and **should be maintained with ongoing performance monitoring**.   
+- **Targeted engagement strategies**: Loyalty members respond best to personalised channels such as direct and email marketing, and mobile sign-ups show the strongest loyalty conversion. TechHub should enhance app experience and introduce exclusive app-based rewards to strengthen engagement. nvestigate TV sign-ups for potential expansion.   
+- **Address Apple product weak participation**: MacBook Air and iPhone severely underperform with loyalty members (iPhone has zero loyalty purchases), suggesting that Apple buyers see limited loyalty benefits. Investigate the cause and consider tailored incentives or exclusive loyalty pricing for Apple customers.   
+- **Improve retention**: Non-loyalty customers show higher repeat purchase rates than loyalty members. Identify these repeat buyers and target them with email campaigns encouraging program enrolment.   
+
+### Refund Management   
+- **Reduce high-value product refund rates**: Laptops and Apple products account for the majority of refunds. Implement enhanced product descriptions, interactive demos, and post-purchase support to align expectations and reduce return rates.
+- **Refine social media marketing**: Social media has the highest refund rate, possibly due to impulse purchases. Introduce clearer product info and possibly intent-focused ad targeting to reduce post-purchase dissatisfaction.
