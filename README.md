@@ -75,7 +75,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 - **Overall Trends**: On average, refund rate is on average **4.64% (1.7K orders)** per year, **declining since 2020**. Total refunded sales over four years is **$2.2M**. **NA** has the **highest refund rate** at **5.37%**, while **average per region** is **4.7%**.   
 - **Product Performance**:   
   - *ThinkPad Laptop* and *Macbook Air Laptop* record the highest refund rates at **11.76%** and **11.43%** respectively. Higher value products (with high AOV) are more likely to be returned.   
-  - **Apple Products** account for **57.8%** of refunds across all products, totalling approximately **$1.2M** in refunded sales. *Apple Iphone* is the **third most refunded product (7.64% refund rate)**, while *Apple Airpod* has the **highest refund count with 2.6K refunded orders**.   
+  - **Apple products** account for **57.8%** of refunds across all products, totalling approximately **$1.2M** in refunded sales. *Apple Iphone* is the **third most refunded product (7.64% refund rate)**, while *Apple Airpod* has the **highest refund count with 2.6K refunded orders**.   
 - **Marketing & Customer Behaviour**:
   - **Social media marketing** drives the highest refund rate at **7.58% (98 orders)**, followed by **direct marketing** at **5.03% (4K orders)**.
   - By **account creation method**, customers who created accounts via **TV** show the highest refund rate (**9.76%, 8 out of 82 orders**), followed by **tablet** users at **7.58%**.
