@@ -9,9 +9,9 @@ This project focuses on extracting meaningful insights from TechHub's operationa
 - What were the sales trends from 2019 to 2022?   
 -	What were the monthly and yearly growth rates during this time?   
 -	How is the new loyalty program performing? Should the company keep using it?   
--	What were the refund rates? Specifically, focus on Apple products.   
+-	What were the refund rates, especially for Apple products?   
 
-For these questions, we focus on the 3 main metrics – **order counts**, **sales revenue**, and **Average Order Value (AOV)**.   
+Analysed metrics: **order counts**, **sales revenue**, and **Average Order Value (AOV)**.   
 
 ## Executive Summary   
 - **Sales Trends**: Sales grew steadily from 2019 through 2021, **peaking in 2020 during the COVID-19 pandemic** before declining to pre-pandemic levels by late 2022. Over the four years (2019-2022), the company generated **$28M in total sales** across **108K orders** from **87.6K customers**, with **AOV of $253**. 2020 had the highest revenue and AOV, while 2021 recorded the highest unit sold.   
@@ -82,15 +82,11 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
   - **Desktop users** and **direct marketing channels** record the **highest refund volumes**, with **4,224 refunded orders each**.    
 
 ## Recommendations   
-### Product Sales   
+### Sales   
 - **Discontinue low performer**: With poor performance across all metrics, TechHub should consider discontinue or replace Bose Soundsport Headphones with higher-potential alternatives.   
 - **Optimise Iphone sales strategy**: Despite being a high-value product, Iphone sales are low and volatile. Investigate pricing, marketing, and inventory factors, and consider product bundling (e.g. with AirPods - the best-seller) to leverage the popularity of complementary Apple items.   
-
-### Seasonality   
 - **Leverage predictable seasonal patterns**: Optimise data-driven inventory planning - increasing stock levels ahead of peak months and reducing restocks during weakest months (Feb, Oct). Avoid launches in these two weak months and schedule releases in late August or early November to capture back-to-school and holiday demand surges.   
 - **Stimulate low-season sales**: Introduce clearance campaigns or targeted discounts in February and October, potentially themed around events such as Valentine’s Day.   
-
-### Countries & Regions   
 - **Focus on top 12 markets**: Concentrate expansion and marketing efforts on the top 12 countries (80% of sales) rather than spreading resources across all 193 markets.   
 - **Leverage high-value APAC markets**: Focus particularly on Japan and target this market with high-value product bundles and exclusive loyalty offers.   
 
