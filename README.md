@@ -54,13 +54,13 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 ### Loyalty Program   
 **Overall Performance**   
 - Loyalty program initially **underperformed during 2019-2020** but achieved **breakthrough in 2021**, surpassing non-loyalty sales for the first time (**19K orders, $4.8M sales, $249 AOV**) and maintaining this lead until 2022.   
--	Loyalty AOV has **grown steadily** during the four-year period (**~5% YoY**), while non-loyalty AOV has **declined ~21% YoY since 2020**, indicating a higher-value customer segment among loyalty members.
+-	Loyalty AOV grew **~5% YoY**, while non-loyalty AOV **declined ~21% YoY since 2020**, indicating a higher-value customer segment among loyalty members.
 -	**APAC** has the **highest loyalty program participation rate of 72%**, compared to an average of **40% across other regions**.   
 
 **Product Performance**   
-- Loyalty members spend more across all products, with an **AOV of $260 vs. $240** compared to non-loyalty customers.   
+- Loyalty members spend more across all products (**$260 vs. $240 AOV**) compared to non-loyalty customers.   
 - **Samsung Webcam** ranks among the **top 3 products (5K orders, $285K sales)** for loyalty members, consistently outperforming non-loyalty customers.   
-- **Apple products**: Non-loyalty members dominate Apple's product purchases. While *Airpods* is the best selling product across both groups, *Macbook Air* severely underperforms with loyalty group, with **first purchase from loyalty members in 2021**. Apple Iphone shows **no loyalty purchases**, suggesting limited program appeal for high-end Apple buyers.   
+- **Apple products** are mostly purchased by non-loyalty customers. While *Airpods* is the best selling product across both groups, *Macbook Air* severely underperforms with loyalty group, with **first purchase from loyalty members in 2021**. Apple Iphone shows **no loyalty purchases**, suggesting limited program appeal for high-end Apple buyers.   
 
 **Marketing & Customer Behaviour**   
 - **Marketing Channels**: Email marketing consistently drives stronger loyalty performance, with sales and orders **surpassing non-loyalty customers since March 2020**, while **affiliate marketing underperforms across all metrics**. This indicates that loyalty members are more responsive to direct and personalised communication.   
