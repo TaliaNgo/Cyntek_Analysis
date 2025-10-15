@@ -42,13 +42,13 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 
 ### Geographical Trends   
 - TechHub serves customers across **193 countries**, with the **USA dominating at 47% of total revenue and orders**. Revenue concentration is significant: the **top 12** countries account for **80% of sales and orders**, with **5 of these countries located in EMEA (primarily Europe)**.
-- **Japan** presents a premium market opportunity with the **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite only ranking 7th in order volume, Japan comes 4th in revenue, indicating high-value purchases.   
-- **North America (NA)** leads with **$14.5M revenue and 55K orders**, with its sales highly concentrated in the **USA (91%) and Canada (8%)**. **APAC has the highest AOV of $278**, presenting an opportunity to focus on high-value products for this region. Within APAC, Japan delivers nearly identical revenue to Australia (region's top country) while only generating **half of Australia's order volume**, reinforcing Japan's position as a high-value market.   
+- **Japan** has **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite only ranking 7th in order volume, Japan comes 4th in revenue, presents a premium market opportunity.   
+- **North America (NA)** leads with **$14.5M revenue and 55K orders**, with sales highly concentrated in the **USA (91%) and Canada (8%)**. **APAC has the highest AOV of $278**, presenting an opportunity to focus on high-value products for this region. Within APAC, Japan delivers nearly identical revenue to Australia (region's top country) while only generating **half of Australia's order volume**, reinforcing Japan's position as a high-value market.   
 
 ### Marketing & Customer Behaviour Analysis   
-- **Note on Data Quality**: A significant number of records show "unknown" for account creation method (4K orders) and marketing channel (1K orders). The company should refine its data collection process to improve accuracy, customer insights, and marketing strategies.   
-- **Marketing Channel**: Direct and email marketing drive **95% of total sales and orders**, making them the most effective channels. The affiliation channel, while much smaller in volume, has the **highest AOV of $302 and retention rate of 25%**.   
-- **Account Creation Method**: Desktop and mobile phones account for approximately **95% of all customer registrations**. **Desktop** method show the **strongest performance** across all metrics, with a **20% retention rate**.   
+- **Data Quality**: A significant number of records show "unknown" for account creation method (4K orders) and marketing channel (1K orders). The company should refine its data collection process to improve accuracy, customer insights, and marketing strategies.   
+- **Marketing Channel**: Direct and email marketing drive **95% of total sales and orders**, making them the most effective channels. Affiliates generate much smaller order volume but have the **highest AOV ($302) and retention (25%)**.   
+- **Account Creation Method**: Desktop and mobile account for roughly **95% of all registrations**. **Desktop** method show the **strongest performance** across all metrics, with a **20% retention rate**.   
 - **Purchase Platform**: Website dominates with **87% of orders (89K), 96% of sales ($27M), and a much higher AOV ($304 vs $44)** compared to the mobile app. This differencce is driven by **product mix**: low-value items (*Samsung Charging Cable Pack*, *Samsung Webcam*) lead sales on the app, while high-value products (*Apple Airpods Headphones*, *27in 4K Gaming Monitor*) top website sales.   
 
 ### Loyalty Program   
@@ -60,12 +60,12 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 **Product Performance**   
 - Loyalty members spend more across all products (**$260 vs. $240 AOV**) compared to non-loyalty customers.   
 - **Samsung Webcam** ranks among the **top 3 products (5K orders, $285K sales)** for loyalty members, consistently outperforming non-loyalty customers.   
-- **Apple products** are mostly purchased by non-loyalty customers. While *Airpods* is the best selling product across both groups, *Macbook Air* severely underperforms with loyalty group, with **first purchase from loyalty members in 2021**. Apple Iphone shows **no loyalty purchases**, suggesting limited program appeal for high-end Apple buyers.   
+- **Apple products** are mostly purchased by non-loyalty customers. *Airpods* is the top seller for both groups, while *Macbook Air* severely underperforms among loyalty members, with **first purchases only in 2021**. *Iphone* shows **no loyalty purchases**, suggesting limited program appeal for high-end Apple buyers.   
 
 **Marketing & Customer Behaviour**   
-- **Marketing Channels**: Email marketing consistently drives stronger loyalty performance, with sales and orders **surpassing non-loyalty customers since March 2020**, while **affiliate marketing underperforms across all metrics**. This indicates that loyalty members are more responsive to direct and personalised communication.   
-- **Account Creation Method**: Loyalty engagement is **strongest among customers who sign up via mobile or TV platforms**. Sales and orders from mobile sign-ups have exceeded non-loyalty since early 2020, and **79% of TV sign-ups** belong to the loyalty program.   
-- **Purchase Platform**: Loyalty program records **higher sales than non-loyalty customers on the mobile app** and perform better there than on the website. Loyalty sales on the mobile app have exceeded non-loyalty purchases across all four years, with AOV consistently higher since 2020 despite declining order volumes from 2021.   
+- **Marketing Channels**: Email marketing drives the **strongest loyalty performance**, with sales and orders surpassing non-loyalty customers since March 2020. **Affiliate marketing underperforms** across all metrics, showing loyalty members respond better to direct, personalised communication.   
+- **Account Creation Method**: Loyalty engagement is **highest for customers signing up via mobile or TV**. Mobile sign-ups have exceeded non-loyalty sales since early 2020, and **79% of TV sign-ups are loyalty members**.   
+- **Purchase Platform**: Loyalty members generate **higher sales than non-loyalty customers on the mobile app** across all four years. AOV on mobile has remained higher since 2020, despite declining order volumes from 2021.   
 
 **Other Findings**   
 - **Repeat Customers**: Non-loyalty customers have a **higher repeat purchase rate (17.3%) than loyalty members (13.1%)**, indicating retention challenges within the program.
