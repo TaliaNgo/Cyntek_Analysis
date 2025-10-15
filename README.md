@@ -11,7 +11,7 @@ This project focuses on extracting meaningful insights from TechHub's operationa
 -	How is the new loyalty program performing? Should the company keep using it?   
 -	What were the refund rates? Specifically, focus on Apple products.   
 
-For these questions, we focus on the 3 main metrics – **order counts**, **sales revenue**, and **AOV**.   
+For these questions, we focus on the 3 main metrics – **order counts**, **sales revenue**, and **Average Order Value (AOV)**.   
 
 ## Executive Summary   
 - **Sales Trends**: Sales grew steadily from 2019 through 2021, **peaking in 2020 during the COVID-19 pandemic** before declining to pre-pandemic levels by late 2022. Over the four years (2019-2022), the company generated **$28M in total sales** across **108K orders** from **87.6K customers**, with **AOV of $253**. 2020 had the highest revenue and AOV, while 2021 recorded the highest unit sold.   
