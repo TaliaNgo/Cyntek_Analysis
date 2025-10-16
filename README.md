@@ -1,6 +1,6 @@
-# TechHub Electronics E-Commerce Analysis   
-## About TechHub   
-TechHub is a global e-commerce platform specialising in electronics and consumer technology products. Since their founding in 2018, the company has grown from a startup to an international retailer, distributing the latest consumer technology from leading brands like Apple, Samsung, and ThinkPad. Operating through their web platform and mobile application, TechHub delivers high-quality products and service to its customers worldwide.   
+# Cyntek Electronics E-Commerce Analysis   
+## About Cyntek   
+Cyntek is a global e-commerce platform specialising in electronics and consumer technology products. Since their founding in 2018, the company has grown from a startup to an international retailer, distributing the latest consumer technology from leading brands like Apple, Samsung, and ThinkPad. Operating through their web platform and mobile application, Cyntek delivers high-quality products and service to its customers worldwide.   
 
 ## Project Goals   
 This project focuses on extracting meaningful insights from TechHub's operational database (see data model) to support strategic decision-making across Finance, Sales, Product, and Marketing teams, enhancing customer experience delivery and driving business growth.   
@@ -35,21 +35,29 @@ Analysed metrics: **order counts**, **sales revenue**, and **Average Order Value
 
 ### Seasonality   
 <p align="center">
-  <img width="427" height="300" alt="seasonality" src="https://github.com/user-attachments/assets/a9f443d6-d63a-4356-b246-7c453f48f2eb" />
+  <img width="561" height="368" alt="image" src="https://github.com/user-attachments/assets/cbf47201-2cf2-4f3e-81db-d527dbf8e354" />
 </p>   
 
 Sales follow **predictable seasonal patterns across 2019-2022**. The highest sales months are **January, September, November, and December**, accounting for **~37% of annual orders and sales**, driven by holiday shopping and back-to-school demand. **February and October** have the lowest orders and sales every year, with **October 2022** being the lowest performing month in the 4-year period (**825 orders, $178K sales, and AOV of $216**).   
 
 ### Geographical Trends   
+<p align="center">
+  <img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/25270b41-4176-49ed-88ab-ec5bc5265dcd" />
+</p>   
+
 - TechHub serves customers across **193 countries**, with the **USA dominating at 47% of total revenue and orders**. Revenue concentration is significant: the **top 12** countries account for **80% of sales and orders**, with **5 of these countries located in EMEA (primarily Europe)**.
 - **Japan** has **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite only ranking 7th in order volume, Japan comes 4th in revenue, presents a premium market opportunity.   
-- **North America (NA)** leads with **$14.5M revenue and 55K orders**, mostly from the **USA (91%) and Canada (8%)**. **APAC has the highest AOV ($278)**, presenting an opportunity to focus on high-value products for this region. Within APAC, Japan delivers **nearly identical revenue** to Australia (region's top country) with only **half the orders**, reinforcing its status as a high-value market.   
+- **North America (NA)** leads with **$14.5M revenue and 55K orders**, mostly from the **USA (91%) and Canada (8%)**. **APAC has the highest AOV ($278)**, presenting an opportunity to focus on high-value products for this region. Within APAC, Japan delivers **more revenue** than Australia with only **half the orders**, reinforcing its status as a high-value market.   
 
 ### Marketing & Customer Behaviour Analysis   
+<p align="center">
+  <img width="799" height="402" alt="image" src="https://github.com/user-attachments/assets/fa8e5cdf-f0f5-400c-94ae-7db82afbd1a6" />
+</p>   
+
 - **Data Quality**: A significant number of records show "unknown" for account creation method (4K orders) and marketing channel (1K orders). The company should refine its data collection process to improve accuracy, customer insights, and marketing strategies.   
 - **Marketing Channel**: Direct and email marketing drive **95% of total sales and orders**, making them the most effective channels. Affiliates generate much smaller order volume but have the **highest AOV ($302) and retention (25%)**.   
 - **Account Creation Method**: Desktop and mobile account for roughly **95% of all registrations**. **Desktop** method show the **strongest performance** across all metrics, with a **20% retention rate**.   
-- **Purchase Platform**: Website dominates with **87% of orders (89K), 96% of sales ($27M), and a much higher AOV ($304 vs $44)** compared to the mobile app. This differencce is driven by **product mix**: low-value items (*Samsung Charging Cable Pack*, *Samsung Webcam*) lead sales on the app, while high-value products (*Apple Airpods Headphones*, *27in 4K Gaming Monitor*) top website sales.   
+- **Purchase Platform**: Website dominates with **83% of orders (89K), 96% of sales ($27M), and a much higher AOV ($304 vs $44)** compared to the mobile app. This differencce is driven by **product mix**: low-value items (*Samsung Charging Cable Pack*, *Samsung Webcam*) lead sales on the app, while high-value products (*Apple Airpods Headphones*, *27in 4K Gaming Monitor*) top website sales.   
 
 ### Loyalty Program   
 **Overall Performance**   
