@@ -73,7 +73,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 **Marketing & Customer Behaviour**   
 - **Marketing Channels**: Email marketing drives the **strongest loyalty performance**, while **affiliate marketing underperforms** across all metrics, showing loyalty members respond better to direct, personalised communication.   
 - **Account Creation Method**: Loyalty engagement is **highest for customers signing up via mobile or TV**. Mobile sign-ups have exceeded non-loyalty sales since early 2020, and **79% of TV sign-ups are loyalty members**.   
-- **Purchase Platform**: Loyalty members generate **higher sales than non-loyalty customers on the mobile app** across all four years. AOV on mobile has remained higher since 2020, despite declining order volumes from 2021.   
+- **Purchase Platform**: Loyalty members generate **higher sales than non-loyalty customers on the mobile app** across all four years. AOV of loyalty members on mobile app has remained higher than non-loyalty since 2020.   
 
 **Other Findings**   
 - **Repeat Customers**: Non-loyalty customers have a **higher repeat purchase rate (17.3%) than loyalty members (13.1%)**, indicating retention challenges within the program.
