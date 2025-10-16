@@ -11,7 +11,7 @@ This project focuses on extracting meaningful insights from TechHub's operationa
 -	How is the new loyalty program performing? Should the company keep using it?   
 -	What were the refund rates, especially for Apple products?   
 
-Analysed metrics: **order counts**, **sales revenue**, and **Average Order Value (AOV)**.   
+Analysed metrics: **order counts**, **sales revenue**, and **average order value (AOV)**.   
 
 ## Executive Summary   
 - **Sales Trends**: Sales grew steadily from 2019 through 2021, **peaking in 2020 during the COVID-19 pandemic** before declining to pre-pandemic levels by late 2022. Over the four years (2019-2022), the company generated **$28M in total sales** across **108K orders** from **87.6K customers**, with **AOV of $253**. 2020 had the highest revenue and AOV, while 2021 recorded the highest unit sold.   
@@ -71,7 +71,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 - **Apple products** are mostly purchased by non-loyalty customers. *Airpods* is the top seller for both groups, while *Macbook Air* severely underperforms among loyalty members, with **first purchases only in 2021**. *Iphone* shows **no loyalty purchases**, suggesting limited program appeal for high-end Apple buyers.   
 
 **Marketing & Customer Behaviour**   
-- **Marketing Channels**: Email marketing drives the **strongest loyalty performance**, with sales and orders surpassing non-loyalty customers since March 2020. **Affiliate marketing underperforms** across all metrics, showing loyalty members respond better to direct, personalised communication.   
+- **Marketing Channels**: Email marketing drives the **strongest loyalty performance**, while **affiliate marketing underperforms** across all metrics, showing loyalty members respond better to direct, personalised communication.   
 - **Account Creation Method**: Loyalty engagement is **highest for customers signing up via mobile or TV**. Mobile sign-ups have exceeded non-loyalty sales since early 2020, and **79% of TV sign-ups are loyalty members**.   
 - **Purchase Platform**: Loyalty members generate **higher sales than non-loyalty customers on the mobile app** across all four years. AOV on mobile has remained higher since 2020, despite declining order volumes from 2021.   
 
@@ -80,10 +80,10 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 - **Refunds**: Loyalty members show **higher refund rates (6.23%) and counts (2.8K)** than non-loyalty customers, possibly reflecting easier return policies.
 
 ### Refund Rates   
-- **Overall Trends**: On average, refund rate is on average **4.64% (1.7K orders)** per year, **declining since 2020**. Total refunded sales over four years is **$2.2M**. **NA** has the **highest refund rate** at **5.37%**, while **average per region** is **4.7%**.   
+- **Overall Trends**: On average, refund rate is on average **4.64% (1.7K orders)** per year, **declining since 2020**. Total refunded sales over four years is **$2.2M**. **NA** has the **highest refund rate** of **5.37%**, while **average per region** is **4.7%**.   
 - **Product Performance**:   
   - *ThinkPad Laptop* and *Macbook Air Laptop* record the highest refund rates at **11.76%** and **11.43%** respectively. Higher value products (with high AOV) are more likely to be returned.   
-  - **Apple products** account for **57.8%** of refunds across all products, totalling approximately **$1.2M** in refunded sales. *Apple Iphone* is the **third most refunded product (7.64% refund rate)**, while *Apple Airpod* has the **highest refund count with 2.6K refunded orders**.   
+  - **Apple products** account for **57.8%** of refunds across all products, totalling **~$1.2M** in refunded sales. *Apple Iphone* is the **third most refunded product (7.64% refund rate)**, while *Apple Airpod* has the **highest refund count (2.6K refunded orders)**.   
 - **Marketing & Customer Behaviour**:
   - **Social media marketing** drives the highest refund rate at **7.58% (98 orders)**, followed by **direct marketing** at **5.03% (4K orders)**.
   - By **account creation method**, customers who created accounts via **TV** show the highest refund rate (**9.76%, 8 out of 82 orders**), followed by **tablet** users at **7.58%**.
