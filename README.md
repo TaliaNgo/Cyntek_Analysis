@@ -26,7 +26,7 @@ Analysed metrics: **order counts**, **sales revenue**, and **average order value
 </p>   
 
 - **Most popular product** is Apple Airpods Headphones, accounting for **45%** of total orders sold and generating **$7.7M** in revenue.
-- The top 4 products - **4K Gaming Monitor, Apple Airpods Headphones, Macbook Air and Thinkpad Laptop** - generate **96%** of total revenue, totalling **$27M** in sales. All three except Airpods are high-value products with AOV significantly above the $260 portfolio average.   
+- The **top 4 products generate 96%** of total revenue, totalling **$27M** in sales. All three except Airpods are high-value products with AOV significantly above the $260 portfolio average.   
 - Since launching in early 2020, **Bose Soundsport Headphones has consistently underperformed**, generating only **0.02% of total orders** and **0.01% of revenue** - an **average of 1-3 orders** per month.   
 - **Apple products**: Apple is a key brand, contributing **48% of total orders and 50% of sales**. Two of its products rank among the top four by value:
   - IPhone: High AOV (**$741**) but less than **1%** of total product sales. Sales are volatile, with sharp fluctuations.
