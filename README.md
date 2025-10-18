@@ -51,7 +51,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 
 ### Marketing & Customer Behaviour Analysis   
 <p align="center">
-  <img width="799" height="402" alt="image" src="https://github.com/user-attachments/assets/fa8e5cdf-f0f5-400c-94ae-7db82afbd1a6" />
+  <img width="738" height="443" alt="image" src="https://github.com/user-attachments/assets/78f604cd-aeb3-44cf-8c19-fa3eb49d8df3" />
 </p>   
 
 - **Data Quality**: A significant number of records show "unknown" for account creation method (4K orders) and marketing channel (1K orders). The company should refine its data collection process to improve accuracy, customer insights, and marketing strategies.   
