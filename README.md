@@ -3,7 +3,7 @@
 Cyntek is a global e-commerce platform specialising in electronics and consumer technology products. Since their founding in 2018, the company has grown from a startup to an international retailer, distributing the latest consumer technology from leading brands like Apple, Samsung, and ThinkPad. Operating through their web platform and mobile application, Cyntek delivers high-quality products and service to its customers worldwide.   
 
 ## Project Goals   
-This project focuses on extracting meaningful insights from TechHub's operational database (see data model) to support strategic decision-making across Finance, Sales, Product, and Marketing teams, enhancing customer experience delivery and driving business growth.   
+This project focuses on extracting meaningful insights from Cyntek's operational database (see data model) to support strategic decision-making across Finance, Sales, Product, and Marketing teams, enhancing customer experience delivery and driving business growth.   
 
 **Stakeholder Questions for Analysis**    
 - What were the sales trends from 2019 to 2022?   
@@ -45,7 +45,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
   <img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/25270b41-4176-49ed-88ab-ec5bc5265dcd" />
 </p>   
 
-- TechHub serves customers across **193 countries**, with the **USA dominating at 47% of total revenue and orders**. Revenue concentration is significant: the **top 12** countries account for **80% of sales and orders**, with **5 of these countries located in EMEA (primarily Europe)**.
+- Cyntek serves customers across **193 countries**, with the **USA dominating at 47% of total revenue and orders**. Revenue concentration is significant: the **top 12** countries account for **80% of sales and orders**, with **5 of these countries located in EMEA (primarily Europe)**.
 - **Japan** has **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite only ranking 7th in order volume, Japan comes 4th in revenue, presents a premium market opportunity.   
 - **North America (NA)** leads with **$14.5M revenue and 55K orders**, mostly from the **USA (91%) and Canada (8%)**. **APAC has the highest AOV ($278)**, presenting an opportunity to focus on high-value products for this region. Within APAC, Japan delivers **more revenue** than Australia with only **half the orders**, reinforcing its status as a high-value market.   
 
@@ -60,10 +60,14 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 - **Purchase Platform**: Website dominates with **83% of orders (89K), 96% of sales ($27M), and a much higher AOV ($304 vs $44)** compared to the mobile app. This differencce is driven by **product mix**: low-value items (*Samsung Charging Cable Pack*, *Samsung Webcam*) lead sales on the app, while high-value products (*Apple Airpods Headphones*, *27in 4K Gaming Monitor*) top website sales.   
 
 ### Loyalty Program   
+<p align="center">
+  <img width="961" height="414" alt="image" src="https://github.com/user-attachments/assets/b6e7c064-7fbb-4b80-90e6-06700372df4f" />
+</p>   
+
 **Overall Performance**   
 - Loyalty program initially **underperformed during 2019-2020** but achieved **breakthrough in 2021**, surpassing non-loyalty sales for the first time (**19K orders, $4.8M sales, $249 AOV**) and maintaining this lead until 2022.   
 -	Loyalty AOV grew **~5% YoY**, while non-loyalty AOV **declined ~21% YoY since 2020**, indicating a higher-value customer segment among loyalty members.
--	**APAC** has the **highest loyalty program participation rate of 72%**, compared to an average of **40% across other regions**.   
+-	Average loyalty program participation across regions is **44%**.   
 
 **Product Performance**   
 - Loyalty members spend more across all products (**$260 vs. $240 AOV**) compared to non-loyalty customers.   
@@ -80,7 +84,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 - **Refunds**: Loyalty members show **higher refund rates (6.23%) and counts (2.8K)** than non-loyalty customers, possibly reflecting easier return policies.
 
 ### Refund Rates   
-- **Overall Trends**: On average, refund rate is on average **4.64% (1.7K orders)** per year, **declining since 2020**. Total refunded sales over four years is **$2.2M**. **NA** has the **highest refund rate** of **5.37%**, while **average per region** is **4.7%**.   
+- **Overall Trends**: On average, refund rate is **4.64% (1.7K orders)** per year, **declining since 2020**. Total refunded sales over four years is **$2.2M**. **NA** has the **highest refund rate** of **5.37%**, while **average per region** is **4.7%**.   
 - **Product Performance**:   
   - *ThinkPad Laptop* and *Macbook Air Laptop* record the highest refund rates at **11.76%** and **11.43%** respectively. Higher value products (with high AOV) are more likely to be returned.   
   - **Apple products** account for **57.8%** of refunds across all products, totalling **~$1.2M** in refunded sales. *Apple Iphone* is the **third most refunded product (7.64% refund rate)**, while *Apple Airpod* has the **highest refund count (2.6K refunded orders)**.   
@@ -91,7 +95,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 
 ## Recommendations   
 ### Sales   
-- **Discontinue low performer**: With poor performance across all metrics, TechHub should consider discontinue or replace Bose Soundsport Headphones with higher-potential alternatives.   
+- **Discontinue low performer**: With poor performance across all metrics, Cyntek should consider discontinue or replace Bose Soundsport Headphones with higher-potential alternatives.   
 - **Optimise Iphone sales strategy**: Despite being a high-value product, Iphone sales are low and volatile. Investigate pricing, marketing, and inventory factors, and consider product bundling (e.g. with AirPods - the best-seller) to leverage the popularity of complementary Apple items.   
 - **Leverage predictable seasonal patterns**: Optimise data-driven inventory planning - increasing stock levels ahead of peak months and reducing restocks during weakest months (Feb, Oct). Avoid launches in these two weak months and schedule releases in late August or early November to capture back-to-school and holiday demand surges.   
 - **Stimulate low-season sales**: Introduce clearance campaigns or targeted discounts in February and October, potentially themed around events such as Valentine’s Day.   
