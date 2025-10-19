@@ -3,7 +3,7 @@
 Cyntek is a global e-commerce platform specialising in electronics and consumer technology products. Since their founding in 2018, the company has grown from a startup to an international retailer, distributing the latest consumer technology from leading brands like Apple, Samsung, and ThinkPad. Operating through their web platform and mobile application, Cyntek delivers high-quality products and service to its customers worldwide.   
 
 ## Project Goals   
-This project focuses on extracting meaningful insights from Cyntek's operational database (see data model) to support strategic decision-making across Finance, Sales, Product, and Marketing teams, enhancing customer experience delivery and driving business growth.   
+This project focuses on extracting meaningful insights from Cyntek's operational database (see [data model](https://github.com/user-attachments/assets/9536991c-1461-4edb-bd04-f825f77f3877)) to support strategic decision-making across Finance, Sales, Product, and Marketing teams, enhancing customer experience delivery and driving business growth.   
 
 **Stakeholder Questions for Analysis**    
 - What were the sales trends from 2019 to 2022?   
