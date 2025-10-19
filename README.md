@@ -80,7 +80,6 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 - **Purchase Platform**: Loyalty members generate **higher sales than non-loyalty customers on the mobile app** across all four years. AOV of loyalty members on mobile app has remained higher than non-loyalty since 2020.   
 
 **Other Findings**   
-- **Repeat Customers**: Non-loyalty customers have a **higher repeat purchase rate (17.3%) than loyalty members (13.1%)**, indicating retention challenges within the program.
 - **Refunds**: Loyalty members show **higher refund rates (6.23%) and counts (2.8K)** than non-loyalty customers, possibly reflecting easier return policies.
 
 ### Refund Rates   
