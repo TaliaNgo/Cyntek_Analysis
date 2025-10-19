@@ -1,0 +1,194 @@
+Code,Country/Territory,Region
+AD,Andorra,Europe
+AE,United Arab Emirates,Asia
+AG,Antigua and Barbuda,Americas
+AI,Anguilla,Americas
+AL,Albania,Europe
+AM,Armenia,Asia
+AO,Angola,Africa
+AR,Argentina,Americas
+AS,American Samoa,Oceania
+AT,Austria,Europe
+AU,Australia,Oceania
+AW,Aruba,Americas
+AX,Åland Islands,Europe
+AZ,Azerbaijan,Asia
+BA,Bosnia and Herzegovina,Europe
+BB,Barbados,Americas
+BD,Bangladesh,Asia
+BE,Belgium,Europe
+BF,Burkina Faso,Africa
+BG,Bulgaria,Europe
+BH,Bahrain,Asia
+BJ,Benin,Africa
+BM,Bermuda,Americas
+BN,Brunei Darussalam,Asia
+BO,Bolivia (Plurinational State of),Americas
+BQ,Bonaire, Sint Eustatius and Saba,Americas
+BR,Brazil,Americas
+BS,Bahamas,Americas
+BT,Bhutan,Asia
+BW,Botswana,Africa
+BY,Belarus,Europe
+BZ,Belize,Americas
+CA,Canada,Americas
+CD,Congo (Democratic Republic of),Africa
+CH,Switzerland,Europe
+CI,Côte d’Ivoire,Africa
+CK,Cook Islands,Oceania
+CL,Chile,Americas
+CM,Cameroon,Africa
+CN,China,Asia
+CO,Colombia,Americas
+CR,Costa Rica,Americas
+CU,Cuba,Americas
+CV,Cabo Verde,Africa
+CW,Curaçao,Americas
+CY,Cyprus,Europe
+CZ,Czechia,Europe
+DE,Germany,Europe
+DK,Denmark,Europe
+DO,Dominican Republic,Americas
+DZ,Algeria,Africa
+EC,Ecuador,Americas
+EE,Estonia,Europe
+EG,Egypt,Africa
+ES,Spain,Europe
+ET,Ethiopia,Africa
+FI,Finland,Europe
+FJ,Fiji,Oceania
+FO,Faroe Islands,Europe
+FR,France,Europe
+GB,United Kingdom,Europe
+GD,Grenada,Americas
+GE,Georgia,Asia
+GF,French Guiana,Americas
+GG,Guernsey,Europe
+GH,Ghana,Africa
+GI,Gibraltar,Europe
+GL,Greenland,Americas
+GN,Guinea,Africa
+GP,Guadeloupe,Americas
+GR,Greece,Europe
+GT,Guatemala,Americas
+GU,Guam,Oceania
+GY,Guyana,Americas
+HK,Hong Kong,Asia
+HN,Honduras,Americas
+HR,Croatia,Europe
+HT,Haiti,Americas
+HU,Hungary,Europe
+ID,Indonesia,Asia
+IE,Ireland,Europe
+IL,Israel,Asia
+IM,Isle of Man,Europe
+IN,India,Asia
+IQ,Iraq,Asia
+IR,Iran,Asia
+IS,Iceland,Europe
+IT,Italy,Europe
+JE,Jersey,Europe
+JM,Jamaica,Americas
+JO,Jordan,Asia
+JP,Japan,Asia
+KE,Kenya,Africa
+KG,Kyrgyzstan,Asia
+KH,Cambodia,Asia
+KN,Saint Kitts and Nevis,Americas
+KR,South Korea,Asia
+KW,Kuwait,Asia
+KY,Cayman Islands,Americas
+KZ,Kazakhstan,Asia
+LA,Lao People’s Democratic Republic,Asia
+LB,Lebanon,Asia
+LC,Saint Lucia,Americas
+LI,Liechtenstein,Europe
+LK,Sri Lanka,Asia
+LT,Lithuania,Europe
+LU,Luxembourg,Europe
+LV,Latvia,Europe
+MA,Morocco,Africa
+MC,Monaco,Europe
+MD,Moldova,Europe
+ME,Montenegro,Europe
+MG,Madagascar,Africa
+MH,Marshall Islands,Oceania
+MK,North Macedonia,Europe
+ML,Mali,Africa
+MM,Myanmar,Asia
+MN,Mongolia,Asia
+MO,Macao,Asia
+MP,Northern Mariana Islands,Oceania
+MQ,Martinique,Americas
+MR,Mauritania,Africa
+MT,Malta,Europe
+MU,Mauritius,Africa
+MV,Maldives,Asia
+MW,Malawi,Africa
+MX,Mexico,Americas
+MY,Malaysia,Asia
+MZ,Mozambique,Africa
+NA,Namibia,Africa
+NC,New Caledonia,Oceania
+NG,Nigeria,Africa
+NI,Nicaragua,Americas
+NL,Netherlands,Europe
+NO,Norway,Europe
+NP,Nepal,Asia
+NZ,New Zealand,Oceania
+OM,Oman,Asia
+PA,Panama,Americas
+PE,Peru,Americas
+PF,French Polynesia,Oceania
+PG,Papua New Guinea,Oceania
+PH,Philippines,Asia
+PK,Pakistan,Asia
+PL,Poland,Europe
+PR,Puerto Rico,Americas
+PS,Palestine,State of,Asia
+PT,Portugal,Europe
+PY,Paraguay,Americas
+QA,Qatar,Asia
+RE,Réunion,Africa
+RO,Romania,Europe
+RS,Serbia,Europe
+RU,Russian Federation,Europe
+RW,Rwanda,Africa
+SA,Saudi Arabia,Asia
+SC,Seychelles,Africa
+SD,Sudan,Africa
+SE,Sweden,Europe
+SG,Singapore,Asia
+SI,Slovenia,Europe
+SK,Slovakia,Europe
+SL,Sierra Leone,Africa
+SN,Senegal,Africa
+SO,Somalia,Africa
+SV,El Salvador,Americas
+SX,Sint Maarten (Dutch part),Americas
+TC,Turks and Caicos Islands,Americas
+TG,Togo,Africa
+TH,Thailand,Asia
+TJ,Tajikistan,Asia
+TL,Timor-Leste,Asia
+TN,Tunisia,Africa
+TR,Türkiye,Asia
+TT,Trinidad and Tobago,Americas
+TW,Taiwan,Asia
+TZ,Tanzania,Africa
+UA,Ukraine,Europe
+UG,Uganda,Africa
+US,United States of America,Americas
+US,United States of America,Americas
+UY,Uruguay,Americas
+UZ,Uzbekistan,Asia
+VC,Saint Vincent and the Grenadines,Americas
+VE,Venezuela,Americas
+VG,Virgin Islands (British),Americas
+VI,Virgin Islands (U.S.),Americas
+VN,Viet Nam,Asia
+VU,Vanuatu,Oceania
+YE,Yemen,Asia
+ZA,South Africa,Africa
+ZM,Zambia,Africa
+ZW,Zimbabwe,Africa
