@@ -84,6 +84,10 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 - **Refunds**: Loyalty members show **higher refund rates (6.23%) and counts (2.8K)** than non-loyalty customers, possibly reflecting easier return policies.
 
 ### Refund Rates   
+<p align="center">
+<img width="841" height="510" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/091d8e11-0879-4b9b-a115-ceefa65b29a6" />
+</p>   
+
 - **Overall Trends**: On average, refund rate is **4.64% (1.7K orders)** per year, **declining since 2020**. Total refunded sales over four years is **$2.2M**. **NA** has the **highest refund rate** of **5.37%**, while **average per region** is **4.7%**.   
 - **Product Performance**:   
   - *ThinkPad Laptop* and *Macbook Air Laptop* record the highest refund rates at **11.76%** and **11.43%** respectively. Higher value products (with high AOV) are more likely to be returned.   
