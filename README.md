@@ -45,7 +45,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
   <img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/25270b41-4176-49ed-88ab-ec5bc5265dcd" />
 </p>   
 
-- Cyntek serves customers across **193 countries**, with the **USA dominating at 47% of total revenue and orders**. Revenue concentration is significant: the **top 12** countries account for **80% of sales and orders**, with **5 of these countries located in EMEA (primarily Europe)**.
+- Cyntek serves customers across **193 countries**, with the **USA dominating at 47% of total revenue and orders**. Revenue concentration is significant: the **top 12** countries account for **80% of sales and orders**, with **6 of these countries located in EMEA (primarily Europe)**.
 - **Japan** has **highest AOV ($393)** among major markets (**49% above the top-12 average of $264**). Despite only ranking 7th in order volume, Japan comes 4th in revenue, presents a premium market opportunity.   
 - **North America (NA)** leads with **$14.5M revenue and 55K orders**, mostly from the **USA (91%) and Canada (8%)**. **APAC has the highest AOV ($278)**, presenting an opportunity to focus on high-value products for this region. Within APAC, Japan delivers **more revenue** than Australia with only **half the orders**, reinforcing its status as a high-value market.   
 
@@ -55,8 +55,8 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 </p>   
 
 - **Data Quality**: A significant number of records show "unknown" for account creation method (4K orders) and marketing channel (1K orders). The company should refine its data collection process to improve accuracy, customer insights, and marketing strategies.   
-- **Marketing Channel**: Direct and email marketing drive **95% of total sales and orders**, making them the most effective channels. Affiliates generate much smaller order volume but have the **highest AOV ($302) and retention (25%)**.   
-- **Account Creation Method**: Desktop and mobile account for roughly **95% of all registrations**. **Desktop** method show the **strongest performance** across all metrics, with a **20% retention rate**.   
+- **Marketing Channel**: Direct and email marketing drive **95% of total sales and orders**, making them the most effective channels. Affiliates generate much smaller order volume but have the **highest AOV of $303**.   
+- **Account Creation Method**: Desktop and mobile account for roughly **95% of all registrations**, and **desktop** method show the **strongest performance** across all metrics.   
 - **Purchase Platform**: Website dominates with **83% of orders (89K), 96% of sales ($27M), and a much higher AOV ($304 vs $44)** compared to the mobile app. This differencce is driven by **product mix**: low-value items (*Samsung Charging Cable Pack*, *Samsung Webcam*) lead sales on the app, while high-value products (*Apple Airpods Headphones*, *27in 4K Gaming Monitor*) top website sales.   
 
 ### Loyalty Program   
@@ -67,7 +67,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 **Overall Performance**   
 - Loyalty program initially **underperformed during 2019-2020** but achieved **breakthrough in 2021**, surpassing non-loyalty sales for the first time (**19K orders, $4.8M sales, $249 AOV**) and maintaining this lead until 2022.   
 -	Loyalty AOV grew **~5% YoY**, while non-loyalty AOV **declined ~21% YoY since 2020**, indicating a higher-value customer segment among loyalty members.
--	Average loyalty program participation across regions is **44%**.   
+-	Average loyalty program participation across regions is **41.67%**.   
 
 **Product Performance**   
 - Loyalty members spend more across all products (**$260 vs. $240 AOV**) compared to non-loyalty customers.   
