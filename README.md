@@ -84,7 +84,7 @@ Sales follow **predictable seasonal patterns across 2019-2022**. The highest sal
 
 ### Refund Rates   
 <p align="center">
-<img width="841" height="510" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/091d8e11-0879-4b9b-a115-ceefa65b29a6" />
+<img width="700" height="338" alt="refund" src="https://github.com/user-attachments/assets/5426310f-d5e1-4abd-a56d-4dd9d0519fe0" />
 </p>   
 
 - **Overall Trends**: On average, refund rate is **4.64% (1.7K orders)** per year, **declining since 2020**. Total refunded sales over four years is **$2.2M**. **NA** has the **highest refund rate** of **5.37%**, while **average per region** is **4.7%**.   
